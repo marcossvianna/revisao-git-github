@@ -1,6 +1,8 @@
 ### REVISÃO GIT E GITHUB
 
-## INTRODUÇÃO
+## Aula 1 - 23/07/2024
+
+# INTRODUÇÃO
 
  Na primeira aula de revisão, abordaremos o que é controle de versão, sua importância, vantagens e o modelo tradicional de versionamento, que é baseado em arquivos ZIP. No modelo tradicional, cada nova versão de um projeto é armazenada como um arquivo ZIP separado, o que leva a problemas como dificuldade em rastrear mudanças, saber quem e quando as modificações foram feitas, divergências de código em equipes, consumo excessivo de espaço em disco e falta de organização.
 
